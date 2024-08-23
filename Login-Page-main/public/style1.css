@@ -20,7 +20,7 @@ body {
 
 h2 {
     margin-top: 0;
-    color: #322828;
+    color: #a6c4c4;
     text-align: center;
 }
 
@@ -38,7 +38,7 @@ th, td {
 
 th {
     background-color: #f2f2f2;
-    color: #2e2121;
+    color: #dd9292;
 }
 
 td {
@@ -49,7 +49,7 @@ a {
     display: block;
     text-align: center;
     margin-top: 20px;
-    color: #6e0fda;
+    color: #da0fc2;
     text-decoration: none;
 }
 
